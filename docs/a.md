@@ -17,7 +17,7 @@ With a _Community Cloud_, the cloud infrastructure is provisioned for exclusive 
 With a __Hybrid Cloud__, the cloud infrastructure is a composition of two or more distinct cloud infrastructures (private, community, or public) that remain unique entities. They are bound together by standardized or proprietary technology that enables data and application portability. 
 
 <figure>
-<img src = "https://jor-donegal.github.io/PowerShell7/images/fig1.png">
+<img src = "https://jor-donegal.github.io/FundamentalsCloud26/images/fig1.png">
 <figcaption>Fig 1. All the clouds!</figcaption>
 </figure>
 
