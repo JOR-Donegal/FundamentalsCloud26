@@ -1,5 +1,4 @@
 # MKTemplate
-Template for new teaching notes
-
-1. Edit mkdocs to name the project and add a URL
-2. 
+Template for new teaching notes.
+This is for HCT so notes use a green header.
+Edited and updated 22MAR26
